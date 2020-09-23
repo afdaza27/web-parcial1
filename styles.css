@@ -16,3 +16,17 @@
   background-color: #393f47;
   border: 0px;
 }
+
+.card-important {
+  font-weight: bold;
+}
+
+.add-button {
+  background-color: #393f47;
+  border-color: #393f47;
+}
+
+.order-button {
+  color: black;
+  border-color: black;
+}
